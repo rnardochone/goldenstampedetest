@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GoldenProject-1.0";
 const contentToCache = [
     "Build/Builds.loader.js",
-    "Build/Builds.framework.js.br",
-    "Build/Builds.data.br",
-    "Build/Builds.wasm.br",
+    "Build/Builds.framework.js.gz",
+    "Build/Builds.data.gz",
+    "Build/Builds.wasm.gz",
     "TemplateData/style.css"
 
 ];
